@@ -25,16 +25,16 @@ Open http://localhost:3000 in your browser.
 
 From project root:
 
-    cd app
+    cd product-app
     npm install
-    node index.js
+    node app/index.js
 
 ## Folder layout
 
 - app/
   - index.js
-  - package.json
   - ...other app files...
+- package.json
 - Dockerfile
 - README.md
 
